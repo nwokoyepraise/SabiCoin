@@ -1,0 +1,22 @@
+{
+  "name": "sabicoin",
+  "version": "1.0.0",
+  "description": "ERC-20 fungible token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwokoyepraise/SabiCoin.git"
+  },
+  "author": "nwokoyepraise",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nwokoyepraise/SabiCoin/issues"
+  },
+  "homepage": "https://github.com/nwokoyepraise/SabiCoin#readme",
+  "dependencies": {
+    "hardhat": "^2.9.1"
+  }
+}
